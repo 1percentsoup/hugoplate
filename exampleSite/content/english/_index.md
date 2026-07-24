@@ -46,7 +46,7 @@ features:
   - title: The Top Reasons to Choose Hugo for Your Hugo Project - TEST!!
     image: /images/service-3.png
     content: With Hugo, you can build modern and content-focused websites without
-      sacrificing performance or ease of use.
+      sacrificing performance or ease of use. This is a test script.
     bulletpoints:
       - Instantly load static sites for better user experience and SEO.
       - Intuitive syntax and support for popular frameworks make learning and
