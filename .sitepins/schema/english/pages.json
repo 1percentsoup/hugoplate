@@ -1,0 +1,43 @@
+{
+  "file": "exampleSite/content/english/pages/privacy-policy.md",
+  "name": "pages",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "meta_title",
+      "label": "Meta Title",
+      "type": "string",
+      "value": "",
+      "description": "meta title",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "description",
+      "label": "Description",
+      "type": "string",
+      "value": "",
+      "description": "meta description",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "draft",
+      "label": "Draft",
+      "type": "boolean",
+      "value": false,
+      "description": "save as draft",
+      "isIgnored": false,
+      "defaultValue": false
+    }
+  ]
+}
