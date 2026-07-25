@@ -3,6 +3,7 @@ title: Calyn Jones
 email: samwilson@email.com
 image: "/images/avatar.png"
 description: this is meta description
+weight: 2
 social:
   - name: github
     icon: fa-brands fa-github
