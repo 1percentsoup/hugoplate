@@ -11,11 +11,9 @@ banner:
 
 # Features
 features:
-  - title: What's Included in Hugoplate
+  - title: Temporary Title
     image: /images/service-1.png
-    content: Hugoplate is a comprehensive starter template that includes everything
-      you need to get started with your Hugo project. What's Included in
-      Hugoplate
+    content: Temporary Description - Location description?
     bulletpoints:
       - 10+ Pre-build pages
       - 95+ Google Pagespeed Score
@@ -27,11 +25,9 @@ features:
       enable: false
       label: Get Started Now
       link: "#"
-  - title: Discover the Key Features Of Hugo
+  - title: Temporary Title
     image: /images/service-2.png
-    content: "Hugo is an all-in-one web framework for building fast, content-focused
-      websites. It offers a range of exciting features for developers and
-      website creators. Some of the key features are:"
+    content: Temporary Description - Different Haircut Descriptions?
     bulletpoints:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose
@@ -41,10 +37,9 @@ features:
       enable: true
       label: Get Started Now
       link: https://github.com/zeon-studio/hugoplate
-  - title: The Top Reasons to Choose Hugo for Your Hugo Project - TEST!!
+  - title: Temporary Title
     image: /images/service-3.png
-    content: With Hugo, you can build modern and content-focused websites without
-      sacrificing performance or ease of use. This is a test script.
+    content: Temporary Description - Product overview?
     bulletpoints:
       - Instantly load static sites for better user experience and SEO.
       - Intuitive syntax and support for popular frameworks make learning and
