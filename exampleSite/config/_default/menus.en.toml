@@ -32,13 +32,13 @@ url = "/contact"
 
 [[main]]
 parent = "Pages"
-name = "Authors"
-url = "/authors"
+name = "Categories"
+url = "/categories"
 
 [[main]]
 parent = "Pages"
-name = "Categories"
-url = "/categories"
+name = "404 Page"
+url = "/404"
 
 [[main]]
 parent = "Pages"
