@@ -3,6 +3,7 @@ title: John Doe
 email: johndoe@email.com
 image: "/images/avatar.png"
 description: this is meta description
+weight: 3
 social:
   - name: github
     icon: fa-brands fa-github
