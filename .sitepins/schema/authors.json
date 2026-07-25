@@ -1,6 +1,5 @@
 {
   "file": "exampleSite/content/english/authors/sam-wilson.md",
-  "name": "authors",
   "fileType": "md",
   "fmType": "yaml",
   "template": [
@@ -9,6 +8,7 @@
       "label": "Title",
       "type": "string",
       "value": "",
+      "isIgnored": false,
       "defaultValue": ""
     },
     {
@@ -16,6 +16,7 @@
       "label": "Email",
       "type": "string",
       "value": "",
+      "isIgnored": false,
       "defaultValue": ""
     },
     {
@@ -23,6 +24,7 @@
       "label": "Image",
       "type": "media",
       "value": "",
+      "isIgnored": false,
       "defaultValue": ""
     },
     {
@@ -30,6 +32,17 @@
       "label": "Description",
       "type": "string",
       "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "weight",
+      "label": "weight",
+      "type": "string",
+      "value": "",
+      "description": "",
+      "isIgnored": false,
+      "isRequired": false,
       "defaultValue": ""
     },
     {
@@ -37,6 +50,7 @@
       "label": "Social",
       "type": "Array",
       "value": [],
+      "isIgnored": false,
       "defaultValue": "",
       "fields": [
         {
@@ -44,6 +58,7 @@
           "label": "Name",
           "type": "string",
           "value": "",
+          "isIgnored": false,
           "defaultValue": ""
         },
         {
@@ -51,6 +66,7 @@
           "label": "Icon",
           "type": "string",
           "value": "",
+          "isIgnored": false,
           "defaultValue": ""
         },
         {
@@ -58,6 +74,7 @@
           "label": "Link",
           "type": "string",
           "value": "",
+          "isIgnored": false,
           "defaultValue": ""
         }
       ]
