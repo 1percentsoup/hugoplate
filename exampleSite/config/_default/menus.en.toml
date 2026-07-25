@@ -48,14 +48,14 @@ url = "/404"
 
 # footer menu
 [[footer]]
-name = "About Us"
-url = "/about-us"
-weight = 1
-
-[[footer]]
 name = "Privacy Policy"
 url = "/privacy-policy"
 weight = 3
+
+[[footer]]
+name = "Terms & Conditions"
+url = "/terms-conditions"
+weight = 4
 
 [[footer]]
 name = "Terms & Conditions"
