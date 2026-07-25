@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: KKrug Gentlemen Haircuts
-  content: ""
+  content: Temporary Description
   image: /images/banner.png
   button:
     enable: true
