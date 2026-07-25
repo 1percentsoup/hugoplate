@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: About Us
-    link: https://kkrugcuts.com/about-us
+    link: https://www.kkrugcuts.com/about-us/
 
 # Features
 features:
