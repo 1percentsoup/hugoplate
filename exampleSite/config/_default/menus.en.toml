@@ -22,13 +22,8 @@ name = "Blog"
 
 [[main]]
 parent = "Pages"
-name = "Elements"
-url = "/elements"
-
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+name = "404 Page"
+url = "/404"
 
 [[main]]
 parent = "Pages"
@@ -37,8 +32,13 @@ url = "/categories"
 
 [[main]]
 parent = "Pages"
-name = "404 Page"
-url = "/404"
+name = "Contact"
+url = "/contact"
+
+[[main]]
+parent = "Pages"
+name = "Elements"
+url = "/elements"
 
 [[main]]
 parent = "Pages"
