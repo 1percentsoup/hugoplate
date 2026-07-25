@@ -5,6 +5,7 @@ image: "/images/avatar.png"
 description: Keriann Krug - Professional barber specializing in precision
   haircuts, fades, beard trims, and premium grooming services in Fond du Lac,
   Wisconsin. Book your appointment today.
+weight: 1
 social:
   - name: github
     icon: fa-brands fa-github
