@@ -27,13 +27,13 @@ url = "/contact"
 
 [[main]]
 parent = "Pages"
-name = "Categories"
-url = "/categories"
+name = "Elements"
+url = "/elements"
 
 [[main]]
 parent = "Pages"
-name = "Elements"
-url = "/elements"
+name = "Categories"
+url = "/categories"
 
 [[main]]
 parent = "Pages"
