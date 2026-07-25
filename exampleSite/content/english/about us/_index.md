@@ -1,4 +1,4 @@
 ---
-title: "authors"
+title: "About Us"
 ---
 ​
