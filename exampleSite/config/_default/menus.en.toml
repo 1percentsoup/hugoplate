@@ -12,18 +12,13 @@ url = "/about-us"
 weight = 2
 
 [[main]]
-name = "Elements"
+name = "Pages"
 url = "/elements"
-weight = 3
+weight = 4
 
 [[main]]
 weight = 4
-name = "Pages"
-
-[[main]]
-parent = "Pages"
 name = "Blog"
-url = "/blog"
 
 [[main]]
 parent = "Pages"
@@ -34,6 +29,11 @@ url = "/contact"
 parent = "Pages"
 name = "Categories"
 url = "/categories"
+
+[[main]]
+parent = "Pages"
+name = "Elements"
+url = "/elements"
 
 [[main]]
 parent = "Pages"
@@ -53,14 +53,14 @@ url = "/about-us"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
-weight = 2
-
-[[footer]]
 name = "Privacy Policy"
 url = "/privacy-policy"
 weight = 3
+
+[[footer]]
+name = "Terms & Conditions"
+url = "/terms-conditions"
+weight = 4
 
 [[footer]]
 name = "Terms & Conditions"
